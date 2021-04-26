@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CleanArchitecture.Domain.Entites
+namespace CleanArchitecture.Application.Models
 {
     public class ResultData
     {
